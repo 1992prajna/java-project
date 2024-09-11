@@ -4,3 +4,5 @@ class Simple{
     }  
 }
 test 1
+test1234
+test123456
